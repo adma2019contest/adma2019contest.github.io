@@ -37,8 +37,10 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Leaderboard
+  url: /leaderboard/
+#- title: Blog
+#  url: /blog/
 
 # Footer nav
 navigation_footer:
