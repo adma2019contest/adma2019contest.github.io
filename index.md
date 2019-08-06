@@ -6,4 +6,4 @@ feature_text: |
   ## Robust Automated Event Detection for Mult-Camera Streaming Video Environment
 ---
 
-There isn't much going on here yet, but watch this space
+The contest seeks to develop robust automatic event detection for a multi-camera streaming video environment. Activities will be enriched by person and object detection. The systems will address activity detection for both forensic applicaitons and for real-time alterting.
