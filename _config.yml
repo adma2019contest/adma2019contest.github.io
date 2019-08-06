@@ -22,8 +22,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'ADMA 2019 Contest'
-description: 'The contest seeks to develop robust automatic event detection for a multi-camera streaming video environment.'
+title: 'ADMA 2019 Competition'
+description: 'The competition seeks to develop robust automatic event detection for a multi-camera streaming video environment.'
 permalink: pretty
 logo: "http://adma2019.neusoft.edu.cn/wp-content/uploads/2019/01/dnui_sy.png"
 
