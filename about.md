@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this website
+title: Robust Automated Event Detection for Mult-Camera Streaming Video Environment
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+This contest
