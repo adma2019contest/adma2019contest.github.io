@@ -12,3 +12,13 @@ This contest will focus on three major thrusts: 1) Detection of primitive activi
 3) Person and object detection and recognition across multiple overlapping and nonoverlapping camera viewpoints.
 
 This contest will produce a common framework and software prototype for activity detection, person/object detection and recognition across a multi-camera network. The impact will be the development of tools for forensic analysis, as well as real-time alerting for userdefined threat scenarios.
+
+--- How to Participate
+
+To take part in this contest, you need to send an email to adma2019contest@gmail.com to register and then acknowledge that you have read and accepted the terms and conditions.
+
+The ADMA 2019 contest team will send you information on how to download data. Then you will email your JSON formatted to the contest team. The team will evaluate your result, and update on the leaderboard.
+
+--- Judging Criteria and Metrics
+
+The main scoring metrics was based on activity detection using the weighted probability of missed detection at 0.15 false alarms per minute averaged over activity types. You can find the scoring software here https://github.com/usnistgov/ActEV_Scorer .
