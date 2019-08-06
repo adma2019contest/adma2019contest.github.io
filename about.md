@@ -22,3 +22,7 @@ The ADMA 2019 contest team will send you information on how to download data. Th
 --- Judging Criteria and Metrics
 
 The main scoring metrics was based on activity detection using the weighted probability of missed detection at 0.15 false alarms per minute averaged over activity types. You can find the scoring software here https://github.com/usnistgov/ActEV_Scorer .
+
+--- Task coordinator
+
+ADMA 2019 Contest team (adma2019contest@gmail.com)
