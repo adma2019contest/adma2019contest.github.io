@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ADMA 2019 Contest Leaderboard
+title: ADMA 2019 Competition Leaderboard
 ---
 
 
