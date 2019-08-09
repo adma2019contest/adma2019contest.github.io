@@ -37,6 +37,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Important Dates
+  url: /important_dates/
 - title: Leaderboard
   url: /leaderboard/
 #- title: Blog
