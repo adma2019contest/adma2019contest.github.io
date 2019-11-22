@@ -2,7 +2,7 @@
 layout: page
 title: Competition Leaderboard
 ---
-
+   
 
 <table class="striped">
   <thead>
