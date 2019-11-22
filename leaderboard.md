@@ -86,7 +86,7 @@ title: Competition Leaderboard
       <td>Yunyun Han, Dong Huang, Feiyue Meng and Xiao Chen</td>
       <td>0.718</td>
     </tr>
-
+ </tbody>
 </table>
 
 
